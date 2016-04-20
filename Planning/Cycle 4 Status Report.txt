@@ -1,0 +1,20 @@
+1. Add "New Game" Button
+2. Fix bugs and improve movement of monsters
+3. Add background picture.
+4. Mushrooms' color can be changed as level changed.
+5. Size of the game can be changed as screen resolution change.
+6. Add a bonus by typing the answer for everything(42)
+7. Add 5 songs as BGMs
+8. Add musice button to switch songs
+9. Add firing sound effects for each weapon
+10.Add one more type of motion of BOSS.
+
+
+1 = 1.5 hr
+2 = 1 hr
+3 = 0.5 hr
+4 = 0.5 hr
+5 = 2 hr
+6 = 0.5 hr
+7 + 8 + 9 =2.5 hr
+10 = 0.5 hr

@@ -1,0 +1,16 @@
+All Cycle 2 features completed!
+1. Classtic motion of Centipede
+2. Hero can be killed
+3. Mushrooms can be destoried
+4. Code is improved by double dispatch and other method
+5. Add Flea and Scorpion
+6. Code for updating level was improved
+7. Help window for new player
+(Kill the centipede was added in Cycle 1)
+Time spent
+1 = 1 hr
+2 + 3 = 0.5 hr
+4 = 2 hr
+5 = 0.8 hr
+6 = 0.5 hr
+7 = 0.5 hr

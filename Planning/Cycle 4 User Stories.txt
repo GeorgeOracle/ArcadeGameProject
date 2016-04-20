@@ -1,0 +1,2 @@
+Considering we were adding new features all the time, Cycle 4 is not a hard cycle.
+We do not have too much new things to learn as we already implement similar things before.

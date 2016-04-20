@@ -1,0 +1,2 @@
+The features we added besides the requirement of Cycle 3 caused us a little problem,
+because it is the not knowledge in the class. We fixed some problems that we did not even know why we could solved them.

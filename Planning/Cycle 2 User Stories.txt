@@ -1,0 +1,2 @@
+Based on progress in Cycle 1, the completion of Cycle 2 did not cost us too much time.
+We basically foused on improve efficiency and fix bugs in this period.

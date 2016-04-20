@@ -1,0 +1,3 @@
+We decided to develop Centipede based on the assignment BallWorlds and GameOfLife.
+Based on the experience from BallWorlds, we did not have too many problems.
+The main problem is from KeyBoardListener, which was finally solved by Google skills.

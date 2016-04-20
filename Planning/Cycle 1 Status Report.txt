@@ -1,0 +1,15 @@
+All features from Cycle 1 are completed!
+1. Add three level Maps with mushrooms
+2. Maps can be loaded from file
+3. All three maps can be switched by U and D
+4. Add a Hero which can be controlled by keyboard
+5. Add a weapon called Laser
+6. Game can be paused by P
+7. Centipede is added
+8. Centipede can be killed and leaving a mushroom
+
+Time spent:
+1 + 3 = 2 hr
+2 = 1 hr
+4 + 6 =2 hr
+7 + 8 =1.5 hr

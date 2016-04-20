@@ -1,0 +1,16 @@
+All features in Cycle 3 completed.
+1. Give different pictures for mushroom, hero and monsters.
+2. Add BOSS level (which is really hard to kill).
+3. Fix some bugs, e.g. problem of focus.
+4. Add score system.
+5. Add spider and improve the behaviors of other two monsters.
+6. Add other two weapons.
+7. Add player system (e.g. when player 1 died in the level 2, player 2 can continue play level 2 instead of starting over from level 1).
+8. Add Victory (kill the BOSS) or GAME OVER (both player 1 and player 2 use up 3 lives) notice.
+Time spent
+1 = 3 hr.
+2 + 6 = 2 hr.
+5 = 2 hr.
+4 = 1 hr.
+3 = 3 hr.
+7 = 0.5 hr.
